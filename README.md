@@ -205,13 +205,8 @@ Constructive ideas help make the analysis sharper and more useful for real-world
 
 ## 👨‍💻 Author
 
-**Unified Mentor Analytics Team**
+**Shakeer Shaik**
 Data Science & Analytics · Streamlit · Plotly · Python
 *Product Profitability Analytics · Cost Structure Diagnostics · Margin Performance Strategy*
 
----
 
-## 🏛 Unified Mentor
-
-**Nassau Candy Distributor**
-*This project was developed under the Nassau Candy Distributor's Product Line Profitability & Margin Performance Analysis program.*
