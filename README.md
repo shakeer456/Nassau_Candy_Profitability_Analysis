@@ -206,7 +206,9 @@ Constructive ideas help make the analysis sharper and more useful for real-world
 ## 👨‍💻 Author
 
 **Shakeer Shaik**
+
 Data Science & Analytics · Streamlit · Plotly · Python
+
 *Product Profitability Analytics · Cost Structure Diagnostics · Margin Performance Strategy*
 
 
