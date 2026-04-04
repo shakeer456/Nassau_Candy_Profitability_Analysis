@@ -113,7 +113,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The dashboard opens at **http://localhost:8501**
+The dashboard opens at **https://candy-profitability-analysis-shakeer-shaik.streamlit.app/**
 
 ---
 
